@@ -1,0 +1,7 @@
+node_modules
+.next
+.git
+.eis-data
+.env*
+.next-qa
+*.tsbuildinfo
